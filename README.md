@@ -73,7 +73,7 @@ btn.MouseButton1Click:Connect(function()
         sg:Destroy()
 
         -- Coloque seu script aqui (pode ser link externo)
-        loadstring(game:HttpGet("https://pastebin.com/raw/seu_script"))()
+        loadstring(game:HttpGet("[https://pastebin.com/raw/seu_script](https://raw.githubusercontent.com/sillageeee/espzao/refs/heads/main/README.md)"))()
     else
         status.Text = "❌ Key inválida. Tente novamente."
     end
