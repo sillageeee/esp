@@ -3,7 +3,7 @@
 
 -- Lista de keys válidas
 local keysValidas = {
-    "KEY13",
+    "itachi",
     "VIDA2024",
     "DISTANCIA777",
     "ESPON",
