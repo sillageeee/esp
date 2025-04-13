@@ -3,7 +3,7 @@
 
 -- Lista de keys válidas
 local keysValidas = {
-    "KEY123",
+    "KEY13",
     "VIDA2024",
     "DISTANCIA777",
     "ESPON",
@@ -73,7 +73,7 @@ btn.MouseButton1Click:Connect(function()
         sg:Destroy()
 
         -- Coloque seu script aqui (pode ser link externo)
-        loadstring(game:HttpGet("[https://pastebin.com/raw/seu_script](https://raw.githubusercontent.com/sillageeee/espzao/refs/heads/main/README.md)"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/sillageeee/espzao/refs/heads/main/README.md"))()
     else
         status.Text = "❌ Key inválida. Tente novamente."
     end
