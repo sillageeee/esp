@@ -4,7 +4,7 @@
 -- Lista de keys válidas
 local keysValidas = {
     "itachi",
-    "xtudo",
+    "hollyisback",
     "DISTANCIA777",
     "ESPON",
     "CHATGPTTOP"
